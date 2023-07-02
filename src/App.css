@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  padding: 50px;
+  /*text-align: center;*/
 }
 
 .App-logo {
@@ -35,4 +36,43 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.formApp{
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+}
+.textFieldWrap{
+  display: flex;
+}
+.todosListWrap{
+
+}
+.textField{
+  height: 20px;
+  margin-right: 25px;
+  padding: 5px;
+}
+.buttonAdd{
+  cursor: pointer;
+  background: cornflowerblue;
+  padding: 0 25px;
+}
+.buttonAdd:hover{
+  opacity: 0.8;
+}
+
+li{
+  margin: 10px;
+}
+.todoItem{
+  padding: 0 10px;
+  color: #02009a;
+  font-weight: bold;
+}
+.completedTodo{
+  text-decoration:line-through;
+  color: #ff2545;
 }
