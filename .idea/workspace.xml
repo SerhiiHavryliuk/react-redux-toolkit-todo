@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8865b292-83b3-4224-95bb-baf6b4a05e40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Counter/Counter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CounterSecond/CounterSecond.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CounterSecond/CounterSecond.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/InputText/InputText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/InputText/InputText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/Todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/Todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/TodoItem/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/TodoItem/TodoItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/TodoLIst/TodoLIst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Todo/TodoLIst/TodoLIst.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/counterSecondSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/counterSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/todoSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RsxaKPqyOveoQlGCXWboPpaL8t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project_Pet/react-redux-toolkit-todo/src/components/MyButton&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\MyButton" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\TextField" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Todo\TodoList" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Todo\TodoItem" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Button" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Todo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8865b292-83b3-4224-95bb-baf6b4a05e40" name="Changes" comment="" />
+      <created>1688052655682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688052655682</updated>
+      <workItem from="1688052665681" duration="3044000" />
+      <workItem from="1688290802540" duration="10857000" />
+      <workItem from="1688303231156" duration="18583000" />
+      <workItem from="1688411486688" duration="4850000" />
+      <workItem from="1688453985049" duration="8831000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

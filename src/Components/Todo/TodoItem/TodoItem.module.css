@@ -1,0 +1,20 @@
+.todoItem{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #f32171;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.checkbox{
+    border: 1px solid yellow;
+}
+.title {
+    margin: 0 20px;
+    font-size: 20px;
+}
+.completedTodo{
+    text-decoration: line-through;
+}
