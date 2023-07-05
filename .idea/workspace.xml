@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8865b292-83b3-4224-95bb-baf6b4a05e40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/Button.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TextField/TextField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TextField/TextField.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/Todo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/TodoItem/TodoItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/TodoList/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Todo/TodoList/TodoList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/todoSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="todo-rerux-3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RsxaKPqyOveoQlGCXWboPpaL8t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Project_Pet/react-redux-toolkit-todo/src/components",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Todo" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\textField" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\MyButton" />
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\TextField" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Pet\react-redux-toolkit-todo\src\components\Todo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8865b292-83b3-4224-95bb-baf6b4a05e40" name="Changes" comment="" />
+      <created>1688052655682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688052655682</updated>
+      <workItem from="1688052665681" duration="3044000" />
+      <workItem from="1688290802540" duration="10857000" />
+      <workItem from="1688303231156" duration="18583000" />
+      <workItem from="1688411486688" duration="4850000" />
+      <workItem from="1688453985049" duration="8831000" />
+      <workItem from="1688498879141" duration="116000" />
+      <workItem from="1688499237377" duration="5793000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
