@@ -1,0 +1,8 @@
+.todoItem{
+    border: 2px solid #ffea07;
+    background: #509bff;
+    margin: 5px;
+}
+.completed{
+    text-decoration: line-through;
+}
